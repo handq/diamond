@@ -6,3 +6,10 @@
 /diamond-server/src/main/webapp/config-data
 logs
 target
+.DS_Store
+*.epoch
+*.log
+*.iml
+*.ipr
+*.iws
+rebel.xml
