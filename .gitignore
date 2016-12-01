@@ -2,6 +2,7 @@
 .project
 .settings
 .svn
+.idea
 /diamond-server/src/main/webapp/config-data
 logs
 target
